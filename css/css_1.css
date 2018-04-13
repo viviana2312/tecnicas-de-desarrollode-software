@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'OpenSans-Light-webfont';
+    src: url('OpenSans-Light-webfont.eot');
+    src: url('OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans-Light-webfont.woff2') format('woff2'),
+         url('OpenSans-Light-webfont.woff') format('woff'),
+         url('OpenSans-Light-webfont.ttf') format('truetype'),
+         url('OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    font-family: Georgia;
+}
+#img_ecbti{
+	width: 960px; 
+	border-radius: 13px;
+}
+
+#inicio{
+	background: #F0B336;
+}
+
+#img_nav{
+    width: 400px;
+}
+.navegacion{
+    
+	width: 1000px;
+	margin: 30px auto;
+	
+}
+
+.navegacion ul{
+	list-style: none;
+}
+
+.menu > li{
+	position: relative;
+	display: inline-block;
+}
+
+.menu > li > a{
+	display: block;
+	padding: 15px 20px;
+	color: #353535;
+	
+	text-decoration: none;
+}
+
+.menu li a:hover{
+	color: white;
+	transition: all .1s;
+    background: #F1722B;
+    
+}
+
+/* Submenu*/
+
+.submenu{
+	position: absolute;
+	background: #333333;
+	width: 120%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+}
+
+.submenu li a{
+	display: block;
+	padding: 15px;
+	color: negro;
+	
+	text-decoration: none;
+}
+
+.menu li:hover .submenu{
+	visibility: visible;
+	opacity: 1;
+    background: #F0B336;
+    color: negro;
+}
