@@ -81,4 +81,70 @@
 	opacity: 1;
     background: #F0B336;
     color: negro;
+}#contenedor aside p strong {
+	color: #000;
+	text-align: justify;
+}
+#contenedor aside h1 strong {
+	text-align: left;
+}
+#contenedor aside h1 strong .menu {
+	font-size: 18px;
+}
+#contenedor aside p strong a {
+	font-size: 18px;
+}
+#contenedor aside p strong {
+	font-weight: bold;
+}
+#contenedor #principal article p strong {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#contenedor aside table tr td h3 {
+	color: #000;
+}
+#contenedor aside table tr td p {
+	color: #000;
+}
+#contenedor aside table tr td h2 a {
+	color: #000;
+}
+.o {
+	color: #000;
+}
+#contenedor aside table tr td h2 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#contenedor aside table tr td h2 a {
+	font-size: 14px;
+}
+#contenedor aside table tr td h2 .o {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#contenedor aside table tr td h2 .o {
+	font-size: 14px;
+}
+#contenedor aside table tr td h1 a {
+	text-align: left;
+	font-size: 14px;
+}
+#contenedor #principal article table tr td h1 a {
+	font-size: 18px;
+	color: #FFF;
+	text-align: left;
+}
+#contenedor #principal article table tr td h2 a {
+	font-size: 18px;
+}
+#contenedor #principal article table tr td h3 .o {
+	color: #FFF;
+}
+#contenedor #principal article table tr td h3 a {
+	font-size: 18px;
+}
+#contenedor #principal article table tr td h3 a {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+#contenedor #principal article table {
+	text-align: center;
 }
