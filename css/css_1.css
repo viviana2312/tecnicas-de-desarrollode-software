@@ -148,3 +148,18 @@
 #contenedor #principal article table {
 	text-align: center;
 }
+#contenedor #principal article .navegacion tr td blockquote p {
+	font-size: 12px;
+}
+#contenedor #principal article .navegacion tr td blockquote p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#contenedor #principal article .navegacion tr td p {
+	font-size: 12px;
+}
+#contenedor #principal article .navegacion tr td p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#contenedor #principal article .navegacion tr td p {
+	font-size: 12px;
+}
