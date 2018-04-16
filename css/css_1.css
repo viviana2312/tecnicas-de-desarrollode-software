@@ -167,7 +167,7 @@
 	text-align: center;
 }
 #contenedor #principal article p {
-	text-align: left;
+	text-align: justify;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 18px;
 }
@@ -234,16 +234,4 @@
 }
 #contenedor #principal article table tr th p {
 	font-style: normal;
-}
-#contenedor #principal p {
-	text-align: left;
-}
-#contenedor #principal p {
-	text-align: center;
-}
-.actividad {
-	text-align: center;
-}
-#contenedor #principal iframe {
-	text-align: left;
 }
