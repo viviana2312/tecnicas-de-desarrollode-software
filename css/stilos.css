@@ -39,12 +39,12 @@ header,nav{
 	text-align: center;
 }
 footer{
-    background:  #1E6381;
+	background:  #1E6381;
 	border-radius: 0.5em;
 	margin: 0.5em auto;
 	max-width: 960px;
 	padding: 0.25em;
-	text-align: center;
+	text-align: justify;
 }
 section#contenedor{
 	margin: 0.5em auto;
@@ -62,6 +62,7 @@ section#principal,aside{
 	min-height: 200px;
 	vertical-align: top;
 	width: 80%;
+	text-align: center;
 
 }
 article{

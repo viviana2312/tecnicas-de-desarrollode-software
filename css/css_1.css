@@ -235,3 +235,12 @@
 #contenedor #principal article table tr th p {
 	font-style: normal;
 }
+#contenedor #principal p {
+	text-align: left;
+}
+#contenedor #principal p {
+	text-align: center;
+}
+.actividad {
+	text-align: center;
+}
